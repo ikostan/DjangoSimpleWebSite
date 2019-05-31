@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d2e11e3-8854-4e64-9792-e62af4268929" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/static/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/personal/static/personal/js/bootstrap.min.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal/templates/personal/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal/templates/personal/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/templates/personal/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal/templates/personal/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/templates/personal/includes/htmlsnippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal/templates/personal/includes/htmlsnippet.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +38,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personal/templates/personal/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+            <state relative-caret-position="207">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#center#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,6 +76,7 @@
         <option value="$PROJECT_DIR$/firstWebSite/settings.py" />
         <option value="$PROJECT_DIR$/personal/templates/personal/htmlsnippet.html" />
         <option value="$PROJECT_DIR$/personal/templates/personal/home.html" />
+        <option value="$PROJECT_DIR$/personal/templates/personal/includes/htmlsnippet.html" />
         <option value="$PROJECT_DIR$/personal/templates/personal/header.html" />
       </list>
     </option>
@@ -93,7 +121,15 @@
               <item name="firstWebSite" type="462c0819:PsiDirectoryNode" />
               <item name="personal" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="firstWebSite" type="b2602c69:ProjectViewProjectNode" />
@@ -107,6 +143,14 @@
               <item name="personal" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="personal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,6 +170,7 @@
       <recent name="C:\Users\superadmin\Desktop\Python\DjangoWebDev\firstWebSite\personal\templates\personal" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\superadmin\Desktop\Python\DjangoWebDev\firstWebSite\personal\static\personal" />
       <recent name="C:\Users\superadmin\Desktop\Python\DjangoWebDev\firstWebSite\personal\templates\personal\includes" />
       <recent name="C:\Users\superadmin\Desktop\Python\DjangoWebDev\firstWebSite\webapp" />
     </key>
@@ -294,13 +339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal/templates/personal/includes/htmlsnippet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/firstWebSite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
@@ -311,13 +349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal/templates/personal/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/firstWebSite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -325,10 +356,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/personal/templates/personal/includes/htmlsnippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="166" selection-start-line="2" selection-start-column="166" selection-end-line="2" selection-end-column="166" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal/templates/personal/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/personal/templates/personal/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+        <state relative-caret-position="207">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#center#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
