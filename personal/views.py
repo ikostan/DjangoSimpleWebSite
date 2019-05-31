@@ -8,4 +8,7 @@ def index(request):
 
 
 def contact(request):
-    return render(request, 'personal/basic.html')
+    return render(request,
+                  'personal/basic.html',
+                  {'content': ['My contact eMail:',
+                               'example@mail.com']})
