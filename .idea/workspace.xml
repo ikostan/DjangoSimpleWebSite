@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d2e11e3-8854-4e64-9792-e62af4268929" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/personal/templates/personal/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal/templates/personal/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal/templates/personal/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal/templates/personal/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,26 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/personal/templates/personal/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#center#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/personal/templates/personal/home.html">
+        <entry file="file://$PROJECT_DIR$/personal/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+            <state relative-caret-position="210">
+              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -57,14 +41,14 @@
         <option value="$PROJECT_DIR$/webapp/migrations/urls.py" />
         <option value="$PROJECT_DIR$/webapp/urls.py" />
         <option value="$PROJECT_DIR$/webapp/views.py" />
-        <option value="$PROJECT_DIR$/personal/views.py" />
         <option value="$PROJECT_DIR$/personal/urls.py" />
         <option value="$PROJECT_DIR$/firstWebSite/urls.py" />
         <option value="$PROJECT_DIR$/firstWebSite/settings.py" />
         <option value="$PROJECT_DIR$/personal/templates/personal/htmlsnippet.html" />
         <option value="$PROJECT_DIR$/personal/templates/personal/includes/htmlsnippet.html" />
-        <option value="$PROJECT_DIR$/personal/templates/personal/header.html" />
         <option value="$PROJECT_DIR$/personal/templates/personal/home.html" />
+        <option value="$PROJECT_DIR$/personal/templates/personal/header.html" />
+        <option value="$PROJECT_DIR$/personal/views.py" />
       </list>
     </option>
   </component>
@@ -90,24 +74,6 @@
             <path>
               <item name="firstWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="firstWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="firstWebSite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="firstWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="firstWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="personal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="firstWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="firstWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="personal" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="firstWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="firstWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="personal" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="personal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -270,13 +236,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/personal/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -326,12 +285,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/personal/templates/personal/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        <state relative-caret-position="256">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#center#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -341,6 +301,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
         </state>
       </provider>
     </entry>
