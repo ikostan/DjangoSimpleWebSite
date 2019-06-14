@@ -36,3 +36,14 @@ personal/__pycache__/urls.cpython-37.pyc
 db.sqlite3
 .idea/workspace.xml
 .idea/workspace.xml
+blog/__pycache__/admin.cpython-37.pyc
+blog/__pycache__/__init__.cpython-37.pyc
+blog/__pycache__/models.cpython-37.pyc
+blog/__pycache__/urls.cpython-37.pyc
+blog/__pycache__/views.cpython-37.pyc
+blog/migrations/__pycache__/__init__.cpython-37.pyc
+personal/__pycache__/models.cpython-37.pyc
+.idea/workspace.xml
+personal/__pycache__/models.cpython-37.pyc
+.idea/workspace.xml
+db.sqlite3
