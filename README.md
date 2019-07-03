@@ -7,7 +7,7 @@ Django is much more of a higher-level framework, and imposes a set structure on 
 Thus, with Flask you can create systems your way, which is probably not most efficient, fastest, or secure way. With Django, you are a bit more constrained, but you are going to most likely do it the best way possible. As with almost all questions people ask me regarding which to use, the answer is: Try a few, and choose the one you like best. In the end, Django and Flask can be used to make the exact same websites!
 
 ### System spec:
-- Django version: 2.2
+- Django version: 2.2.3
 - Python version: 3.7
 
 ### Based on:
