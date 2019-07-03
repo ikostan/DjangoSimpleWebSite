@@ -1,5 +1,4 @@
 firstWebSite/settings.py
-.idea/
 firstWebSite/__pycache__/
 webapp/__pycache__/
 webapp/migrations/__pycache__/
@@ -7,6 +6,5 @@ webapp/migrations/__pycache__/
 personal/__pycache__/
 db.sqlite3
 blog/__pycache__/
-blog/migrations/__pycache__/
 personal/__pycache__/
-.idea/workspace.xml
+.venv/
