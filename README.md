@@ -45,3 +45,50 @@ pip install django
 ```bash
 django-admin --version
 ```
+
+## Creating a project:
+- From the command line, cd into a directory where you’d like to store your code, then run the following command:
+```bash
+django-admin startproject mysite
+```
+- This will create a mysite directory in your current directory. If it didn’t work, see [Problems running django-admin.](https://docs.djangoproject.com/en/2.2/faq/troubleshooting/#troubleshooting-django-admin)
+- Let’s look at what startproject created:
+```bash
+mysite/
+    manage.py
+    mysite/
+        __init__.py
+        settings.py
+        urls.py
+        wsgi.py
+```
+**These files are:**
+
+- The outer **mysite/** root directory is just a container for your project. Its name doesn’t matter to Django; you can rename it to anything you like.
+- **manage.py**: A command-line utility that lets you interact with this Django project in various ways. You can read all the details about manage.py in [django-admin and manage.py.](https://docs.djangoproject.com/en/2.2/ref/django-admin/)
+- The inner **mysite/** directory is the actual Python package for your project. Its name is the Python package name you’ll need to use to import anything inside it (e.g. mysite.urls).
+- **mysite/__init__.py**: An empty file that tells Python that this directory should be considered a Python package. If you’re a Python beginner, read [more about packages](https://docs.python.org/3/tutorial/modules.html#tut-packages) in the official Python docs.
+- **mysite/settings.py**: Settings/configuration for this Django project. [Django settings](https://docs.djangoproject.com/en/2.2/topics/settings/) will tell you all about how settings work.
+- **mysite/urls.py**: The URL declarations for this Django project; a “table of contents” of your Django-powered site. You can read more about URLs in [URL dispatcher.](https://docs.djangoproject.com/en/2.2/topics/http/urls/)
+- **mysite/wsgi.py**: An entry-point for WSGI-compatible web servers to serve your project. See [How to deploy with WSGI](https://docs.djangoproject.com/en/2.2/howto/deployment/wsgi/) for more details.
+
+### The development server:
+Let’s verify your Django project works. Change into the outer mysite directory, if you haven’t already, and run the following commands:
+```bash
+python manage.py runserver
+```
+You’ll see the following output on the command line:
+```bash
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+
+July 02, 2019 - 15:50:53
+Django version 2.2, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+```
+
