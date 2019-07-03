@@ -3,8 +3,10 @@ firstWebSite/__pycache__/
 webapp/__pycache__/
 webapp/migrations/__pycache__/
 .idea/
+idea/
 personal/__pycache__/
 db.sqlite3
 blog/__pycache__/
 personal/__pycache__/
 .venv/
+venv/
